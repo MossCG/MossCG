@@ -1,9 +1,6 @@
 # 👋好耶！
 ## 这里是啥也不会的墨姐姐x~
 
-[![一点统计信息](https://github-readme-stats.vercel.app/api?username=MossCG&count_private=true&locale=cn&show_icons=true&count_private=true)]()
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=MossCG&layout=compact&locale=cn&count_private=true)]()
-
 ### 🌱 构成成分
 - Java/Python/C++苦手+早退OIer（？
 - MossFrp老板娘+业余后端工程师
@@ -51,19 +48,6 @@
 - [[Java] 郊狼OnlineJudge联动 DGLAB-OI](https://github.com/MossCG/DGLAB-OI)
 </details>
 
+[![一点统计信息](https://github-readme-stats.vercel.app/api?username=MossCG&count_private=true&locale=cn&show_icons=true&count_private=true)]()
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=MossCG&layout=compact&locale=cn&count_private=true)]()
 
-
-<!--
-**MossCG/MossCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
