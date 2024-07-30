@@ -1,7 +1,15 @@
 # 👋好耶！
 ## 这里是啥也不会的墨姐姐x~
 
-[![一点统计信息](https://github-readme-stats.vercel.app/api?username=MossCG&count_private=true&locale=cn&show_icons=true)]()
+[![一点统计信息](https://github-readme-stats.vercel.app/api?username=MossCG&count_private=true&locale=cn&show_icons=true&count_private=true)]()
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=MossCG&layout=compact&locale=cn&count_private=true)]()
+
+### 🌱 构成成分
+- Java/Python/C++苦手+早退OIer（？
+- MossFrp老板娘+业余后端工程师
+- MC插件作者+10年MC技术服主
+- 业余服务器运维+洋垃圾爱好者
+- 蓝粉白
 
 ### 🔭 一点点小项目
 
