@@ -33,7 +33,8 @@
 <details> 
   <summary> AutoTicketBilibili ATB抢票软件 </summary>
   
-- [[Python|Private] ATB软件本体 AutoTicketBilibili](https://github.com/AutoTicketBilibili/AutoTicketBilibili)
+- [[Python|Private] ATB软件本体For会员购 AutoTicketBilibili](https://github.com/AutoTicketBilibili/AutoTicketBilibili)
+- [[Python|Private] ATB软件本体ForCPP AutoTicketCPP](https://github.com/AutoTicketBilibili/AutoTicketCPP)
 - [[Java|Private] ATB群控主控 ATBController](https://github.com/AutoTicketBilibili/ATBController)
 - [[Python|Private] ATB快速部署 ATBDeployer](https://github.com/AutoTicketBilibili/ATBDeployer)
 - [[Java] MCT余票监测 MossCheckTicket](https://github.com/AutoTicketBilibili/MossCheckTicket)
