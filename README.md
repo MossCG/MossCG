@@ -37,8 +37,10 @@
 - [[Python|Private] ATB软件本体ForCPP AutoTicketCPP](https://github.com/AutoTicketBilibili/AutoTicketCPP)
 - [[Java|Private] ATB群控主控 ATBController](https://github.com/AutoTicketBilibili/ATBController)
 - [[Python|Private] ATB快速部署 ATBDeployer](https://github.com/AutoTicketBilibili/ATBDeployer)
+- [[Python|Private] ATB成功率显示 ATBDisplay](https://github.com/AutoTicketBilibili/ATBDisplay)
 - [[Java] MCT余票监测 MossCheckTicket](https://github.com/AutoTicketBilibili/MossCheckTicket)
-- [[Python] 高并发云Geetest验证 CloudGeetest](https://github.com/AutoTicketBilibili/CloudGeetest)
+- [[Python] 高并发B站云Geetest验证 CloudGeetest](https://github.com/AutoTicketBilibili/CloudGeetest)
+- [[Python] 高并发CPP云滑块验证 CloudSlideCaptcha](https://github.com/AutoTicketBilibili/CloudSlideCaptcha)
 - [[Java] 简易Http邮件API EasyMail](https://github.com/AutoTicketBilibili/EasyMail)
 </details>
 
