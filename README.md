@@ -3,9 +3,11 @@
 
 ### 🌱 构成成分
 - Java/Python/C++苦手+早退OIer（？
-- MossFrp老板娘+业余后端工程师
+- MossFrp老板娘（站长）
+- Java/Python后端工程师（打死不写UI）
 - MC插件作者+10年MC技术服主
 - 业余服务器运维+洋垃圾爱好者
+- 知名杂鱼批发商（x
 - 蓝粉白
 
 ### 🔭 一点点小项目
@@ -31,17 +33,15 @@
 </details>
 
 <details> 
-  <summary> AutoTicketBilibili ATB抢票软件 </summary>
-  
-- [[Python|Private] ATB软件本体For会员购 AutoTicketBilibili](https://github.com/AutoTicketBilibili/AutoTicketBilibili)
-- [[Python|Private] ATB软件本体ForCPP AutoTicketCPP](https://github.com/AutoTicketBilibili/AutoTicketCPP)
-- [[Java|Private] ATB群控主控 ATBController](https://github.com/AutoTicketBilibili/ATBController)
-- [[Python|Private] ATB快速部署 ATBDeployer](https://github.com/AutoTicketBilibili/ATBDeployer)
-- [[Python|Private] ATB成功率显示 ATBDisplay](https://github.com/AutoTicketBilibili/ATBDisplay)
+  <summary> AutoTicketBilibili ATB票务软件 </summary>
+
+- [[Python] CPP票务观察小脚本 CPPObserver](https://github.com/AutoTicketBilibili/CPPObserver)
 - [[Java] MCT余票监测 MossCheckTicket](https://github.com/AutoTicketBilibili/MossCheckTicket)
 - [[Python] 高并发B站云Geetest验证 CloudGeetest](https://github.com/AutoTicketBilibili/CloudGeetest)
 - [[Python] 高并发CPP云滑块验证 CloudSlideCaptcha](https://github.com/AutoTicketBilibili/CloudSlideCaptcha)
 - [[Java] 简易Http邮件API EasyMail](https://github.com/AutoTicketBilibili/EasyMail)
+- [[Java] 简易Http机器人API EasyQQ](https://github.com/AutoTicketBilibili/EasyQQ)
+- 还有6个Private的Repo不作展示哦
 </details>
 
 <details> 
